@@ -12,7 +12,8 @@ const Header = ({ menuState, setMenuState, setCursorHovered }) => {
       <div className="container fluid">
         <div className="header-inner">
           <Link activeClassName="active" to="/">
-            Pocket.
+            Orange Time and Space
+            <br></br><br></br>Greem Jellyfish
           </Link>
           <div
             onClick={() => setMenuState(!menuState)}
