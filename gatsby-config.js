@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Awwwards Rebuilt Mini`,
+    title: `Greem Jellyfish`,
     description: `A mini rebuilt of a hamburger menu`,
     author: `@wrongakram`,
   },
